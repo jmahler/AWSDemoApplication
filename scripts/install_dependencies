@@ -2,5 +2,3 @@
 
 yum install -y httpd
 yum install -y cowsay
-
-rm -f /usr/bin/cowsay
